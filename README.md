@@ -5,12 +5,13 @@
 [![Platform](https://img.shields.io/badge/Platform-Microchip%20PIC%20%7C%20MPLAB%20XC8-red?style=for-the-badge&logo=microchip)](https://www.microchip.com)
 [![EDA](https://img.shields.io/badge/EDA-Proteus%20Design%20Suite-blue?style=for-the-badge)](https://www.labcenter.com)
 
-> Hardware schematics, PCB layouts, and embedded C firmware for the **University of Brighton Robot Wars Competition** (XE521 Engineering Design & EO524 Embedded Systems). Achieved **2nd Place Overall** in the inter-collegiate arena combat tournament. Combines dual high-current DC motor H-bridge drivers, ultrasonic obstacle tracking, stepper actuation, and an onboard HD44780 status display.
+> Hardware schematics, PCB layouts, and embedded C firmware for the **University of Brighton Robot Wars Competition**, achieving a **2nd Place Overall Podium Finish** in the inter-collegiate arena combat tournament. Combines dual high-current DC motor H-bridge drivers, ultrasonic obstacle tracking, stepper actuation, and an onboard HD44780 status display.
 
 ---
 
 ### 📜 Academic Integrity & Attribution Disclosure
-- **Team Project Context & Individual Contributions:** Developed as part of the collegiate Robot Wars competition team for modules `XE521` (Engineering Design) and `EO524` (Embedded Systems). Harry Rogers served as lead systems and firmware engineer, authoring the embedded C motor driver routines, ultrasonic sonar capture interrupts, and Proteus simulation schematics.
+- **Team Project Context & Individual Contributions:** Developed as part of the collegiate Robot Wars competition team during undergraduate engineering studies. Harry Rogers served as lead systems and firmware engineer, authoring the embedded C motor driver routines, ultrasonic sonar capture interrupts, and Proteus simulation schematics.
+- **Distinct Project Scope:** This combat platform was engineered specifically for the Robot Wars arena tournament, distinct from the autonomous corridor-navigating sensor buggy and separate from the low-level MPASM assembly library.
 - **Third-Party & Vendor IP:** Compiler runtime and device peripheral registers are copyright **Microchip Technology Inc.** Simulation models and EDA schematic libraries utilize standard components from **Labcenter Electronics Proteus Design Suite**.
 
 ---
