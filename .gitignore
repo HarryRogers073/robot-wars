@@ -1,0 +1,20 @@
+# Proteus temporary and workspace files
+*.pdsprj.*.workspace
+*.pdsbak
+*.bak
+
+# MPLAB / XC8 build artifacts
+build/
+dist/
+nbproject/private/
+*.o
+*.d
+*.p1
+*.hex
+*.cof
+*.sym
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
