@@ -9,6 +9,12 @@
 
 ---
 
+### 📜 Academic Integrity & Attribution Disclosure
+- **Team Project Context & Individual Contributions:** Developed as part of the collegiate Robot Wars competition team for modules `XE521` (Engineering Design) and `EO524` (Embedded Systems). Harry Rogers served as lead systems and firmware engineer, authoring the embedded C motor driver routines, ultrasonic sonar capture interrupts, and Proteus simulation schematics.
+- **Third-Party & Vendor IP:** Compiler runtime and device peripheral registers are copyright **Microchip Technology Inc.** Simulation models and EDA schematic libraries utilize standard components from **Labcenter Electronics Proteus Design Suite**.
+
+---
+
 ## 🏆 Key Achievements
 
 - **2nd Place Podium Finish** in the University of Brighton Robot Wars Tournament.
