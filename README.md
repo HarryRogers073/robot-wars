@@ -19,7 +19,7 @@
 ## 🏆 Key Achievements
 
 - **2nd Place Podium Finish** in the University of Brighton Robot Wars Tournament.
-- **82% Distinction Grade (A+)** in XE521 Engineering Design.
+- **82% Distinction Grade (A+)** in Engineering Design & Robotics.
 - **Dual Motor Differential Drive:** High-torque H-bridge motor driver schematic designed and verified in **Labcenter Proteus Design Suite** (`schematics_proteus/`).
 - **Real-Time Sonar Ranging:** Ultrasonic sensor (HC-SR04) echo capture routines executed via hardware timer interrupts for target detection and wall evasion.
 - **Embedded C Firmware:** Modular XC8 C architecture for pulse width modulation, differential steering, and auxiliary weapon actuation.
@@ -96,9 +96,10 @@ robot-wars-combat-platform/
 - **Author:** Harry Rogers
 - **Degree:** BEng (Hons) Electronic & Computer Engineering (First-Class Honours)
 - **Institution:** University of Brighton
-- **Module:** XE521 - Engineering Design & EO524 - Embedded Systems
-- **Distinction:** Robot Wars 2nd Place Prize
+- **Context:** Robot Wars Arena Combat Tournament & Engineering Design
+- **Distinction:** Robot Wars 2nd Place Prize (82% A+)
 - **Portfolio:** [www.harry-rogers.com](https://www.harry-rogers.com)
+- **LinkedIn:** [linkedin.com/in/harryrogers073](https://www.linkedin.com/in/harryrogers073/)
 
 ---
 
