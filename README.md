@@ -9,14 +9,14 @@
 
 ---
 
-### ◆ Academic Integrity & Attribution Disclosure
+### Academic Integrity & Attribution Disclosure
 - **Team Project Context & Individual Contributions:** Developed as part of a student team for the undergraduate Robot Wars competition at the University of Brighton. Harry Rogers served as lead systems and firmware engineer, authoring the embedded C motor driver routines (`MovementCode.c`), ultrasonic sonar capture interrupts (`ultrasonic_driver.c`), stepper weapon sequencing (`newmain.c`), and the Proteus simulation schematics (`schematics_proteus/`).
 - **External & Tutorial Code:** The I2C character LCD driver (`firmware_xc8/drive_controller/lcd.c`) was adapted from a tutorial by Khaled Magdy on DeepBlueEmbedded by team member Kay Hendriksen and adapted for a 16 MHz clock.
 - **Third-Party & Vendor IP:** Compiler runtime and device peripheral registers are copyright **Microchip Technology Inc.** Simulation models and EDA schematic libraries utilize standard components from **Labcenter Electronics Proteus Design Suite**.
 
 ---
 
-## ★ Key Achievements
+## Key Achievements
 
 - **2nd Place Podium Finish** in the University of Brighton Robot Wars Tournament.
 - **82% Distinction Grade (A+)** in Engineering Design & Robotics.
@@ -26,7 +26,7 @@
 
 ---
 
-## ◆ Hardware Architecture
+## Hardware Architecture
 
 ```mermaid
 flowchart TD
@@ -56,7 +56,7 @@ flowchart TD
 
 ---
 
-## ◆ Repository Contents
+## Repository Contents
 
 ```text
 robot-wars/
@@ -76,7 +76,7 @@ robot-wars/
 
 ---
 
-## → Build & Simulation Guide
+## Build & Simulation Guide
 
 ### Circuit Simulation in Proteus
 1. Open **Labcenter Proteus 8 Professional**.
@@ -91,7 +91,7 @@ robot-wars/
 
 ---
 
-## ★ Academic Information & Author
+## Academic Information & Author
 
 - **Author:** Harry Rogers (Lead Systems & Firmware Engineer)
 - **Degree:** BEng (Hons) Electronic & Computer Engineering (First-Class Honours)
@@ -102,5 +102,5 @@ robot-wars/
 
 ---
 
-## ◆ License
+## License
 This repository is licensed under the MIT License - see [LICENSE](LICENSE) for details.
