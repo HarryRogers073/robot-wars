@@ -1,7 +1,7 @@
 # Autonomous Combat Robotics Platform & H-Bridge Motor Controller
 
 [![Award](https://img.shields.io/badge/Competition-Robot%20Wars%202nd%20Place-silver?style=for-the-badge&logo=target)](https://www.harry-rogers.com)
-[![Grade](https://img.shields.io/badge/Module%20Grade-82%25%20(A%2B)-success?style=for-the-badge)](https://www.harry-rogers.com)
+[![Grade](https://img.shields.io/badge/Module%20Grade-First%20Class%2082%25%20(A%2B)-success?style=for-the-badge)](https://www.harry-rogers.com)
 [![Platform](https://img.shields.io/badge/Platform-Microchip%20PIC%20%7C%20MPLAB%20XC8-red?style=for-the-badge&logo=microchip)](https://www.microchip.com)
 [![EDA](https://img.shields.io/badge/EDA-Proteus%20Design%20Suite-blue?style=for-the-badge)](https://www.labcenter.com)
 
@@ -19,7 +19,7 @@
 ## Key Achievements
 
 - **2nd Place Podium Finish** in the University of Brighton Robot Wars Tournament.
-- **82% Distinction Grade (A+)** in Engineering Design & Robotics.
+- **First Class 82% (A+)** in Engineering Design & Robotics.
 - **Dual Motor Differential Drive:** High-torque H-bridge motor driver schematic designed and verified in **Labcenter Proteus Design Suite** (`schematics_proteus/`).
 - **Real-Time Sonar Ranging:** HC-SR04 ultrasonic sensor routines executed via hardware timer interrupts for target detection and wall evasion.
 - **Embedded C Firmware:** Modular XC8 C architecture for pulse width modulation, differential steering, and auxiliary weapon actuation.
