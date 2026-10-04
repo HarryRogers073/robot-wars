@@ -94,9 +94,9 @@ robot-wars/
 ## Academic Information & Author
 
 - **Author:** Harry Rogers (Lead Systems & Firmware Engineer)
-- **Degree:** BEng (Hons) Electronic & Computer Engineering (First-Class Honours)
+- **Degree:** BEng (Hons) Electronic & Computer Engineering (First Class 80%)
 - **Institution:** University of Brighton
-- **Context:** Robot Wars Arena Combat Tournament & Engineering Design (82% A+)
+- **Context:** Robot Wars Arena Combat Tournament & Engineering Design (First Class 82% / A+)
 - **Website:** [www.harry-rogers.com](https://www.harry-rogers.com)
 - **LinkedIn:** [linkedin.com/in/harryrogers073](https://www.linkedin.com/in/harryrogers073/)
 
