@@ -1,13 +1,12 @@
 /*
---------------------------------------------------------------------------------
--- Module Name:   ultrasonic_driver.c
--- Description:   HC-SR04 ultrasonic sonar trigger and echo pulse timer capture
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Hardware:      Microchip PIC16F873, HC-SR04 Ultrasonic Transducer
--- Context:       University of Brighton Robot Wars Competition (2nd Place)
---------------------------------------------------------------------------------
+================================================================================
+File:         ultrasonic_driver.c
+Written by:   Harry Rogers
+Date:         May 2022
+Description:  HC-SR04 ultrasonic sonar range measurement and target tracking driver
+================================================================================
 */
+
 #include <xc.h>
 #pragma config FOSC=XT,WDTE=OFF,PWRTE=ON,CP=OFF
 #define _XTAL_FREQ 4000000

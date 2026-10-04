@@ -1,13 +1,12 @@
 /*
---------------------------------------------------------------------------------
--- Module Name:   newmain.c (stepper_weapon.c)
--- Description:   4-phase stepper motor weapon actuator control routine
--- Author:        Harry Rogers (University of Brighton)
--- Date:          2022
--- Hardware:      Microchip PIC16F873, Stepper Driver Stage
--- Context:       University of Brighton Robot Wars Competition (2nd Place)
---------------------------------------------------------------------------------
+================================================================================
+File:         newmain.c
+Written by:   Harry Rogers
+Date:         May 2022
+Description:  Stepper motor auxiliary weapon actuation and step-sequence controller
+================================================================================
 */
+
 #include <xc.h>  // This defines all the C commands we are going to use
 #pragma config FOSC = XT, WDTE = OFF, PWRTE = ON, CP = OFF
 #define _XTAL_FREQ 4000000 //4 MHz crystal for use with delay macros
