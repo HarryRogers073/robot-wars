@@ -1,3 +1,13 @@
+/*
+--------------------------------------------------------------------------------
+-- Module Name:   MovementCode.c
+-- Description:   Dual DC motor differential steering & PWM drive controller
+-- Author:        Harry Rogers (University of Brighton)
+-- Date:          2022
+-- Hardware:      Microchip PIC16F873 (4 MHz Crystal), High-Current MOSFET H-Bridge
+-- Context:       University of Brighton Robot Wars Competition (2nd Place)
+--------------------------------------------------------------------------------
+*/
 /* Template to start coding with the PIC16F873
 
  * Hardware Description
